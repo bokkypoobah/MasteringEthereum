@@ -132,7 +132,7 @@ https://www.rustup.rs/
 
 [NOTE]
 ====
-Parity requires Rust version 1.18 or greater.
+Parity requires Rust version 1.24 or greater.
 ====
 
 Parity also requires some software libraries, such as OpenSSL and libudev. To install these on a Linux (Debian) compatible system:
